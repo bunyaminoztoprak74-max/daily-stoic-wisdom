@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daily Stoic Wisdom: 3 Minutes to Mental Mastery</title>
+    <link>https://github.com/bunyaminoztoprak74-max/daily-stoic-wisdom</link>
+    <language>en-us</language>
+    <copyright>© 2026 Bünyamin Öztoprak</copyright>
+    <itunes:author>Bünyamin Öztoprak</itunes:author>
+    <description>Daily Stoic Wisdom delivers 3 minutes of timeless philosophical reflection from Marcus Aurelius, Seneca, and Epictetus to help you master your mind, conquer anxiety, and navigate modern life with unshakable composure.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Bünyamin Öztoprak</itunes:name>
+      <itunes:email>bunyamin.oztoprak74@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/bunyaminoztoprak74-max/daily-stoic-wisdom/main/cover.jpg"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Philosophy"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+
+    <item>
+      <title>The Power Over Your Mind (Marcus Aurelius) - Oct 20</title>
+      <itunes:title>The Power Over Your Mind (Marcus Aurelius) - Oct 20</itunes:title>
+      <itunes:author>Bünyamin Öztoprak</itunes:author>
+      <description>Reflecting on Marcus Aurelius: How recognizing the boundary between what you control and what you do not unlocks unshakable peace of mind.</description>
+      <itunes:summary>Reflecting on Marcus Aurelius: How recognizing the boundary between what you control and what you do not unlocks unshakable peace of mind.</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 20:46:43 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bunyaminoztoprak74-max/daily-stoic-wisdom/main/episodes/Stoic_Wisdom_2026-10-20.mp3" 
+                 type="audio/mpeg" 
+                 length="1869740"/>
+      <guid isPermaLink="false">stoic-wisdom-ep-2026-10-20</guid>
+      <itunes:duration>01:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
